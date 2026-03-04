@@ -1,24 +1,24 @@
 # Web Server & Environment
-fastapi==0.111.0
-uvicorn[standard]==0.30.1
-python-multipart==0.0.9
-python-dotenv==1.0.1
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
 
-# LLM Integration (MISSING FROM PREVIOUS LIST!)
-openai==1.34.0
+# LLM Integration 
+openai
 
 # PDF & Text Processing
-pypdf==4.2.0
-langchain==0.2.5
-langchain-community==0.2.5
-langchain-text-splitters==0.2.1
+pypdf
+langchain
+langchain-community
+langchain-text-splitters
 
 # Embeddings & Vector Database
-langchain-huggingface==0.0.3
-langchain-chroma==0.1.1
-chromadb==0.5.3
-sentence-transformers==3.0.0
+langchain-huggingface
+langchain-chroma
+chromadb
+sentence-transformers
 
-# ML Core (Required for local embeddings)
-torch==2.3.1
-transformers==4.41.2
+# ML Core
+torch
+transformers
