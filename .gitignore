@@ -1,0 +1,20 @@
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Environment Variables (Keep your API keys safe!)
+.env
+
+# Vector Database and Uploaded Data
+chroma_db/
+data/
+
+# Python Cache Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and OS files
+.vscode/
+.DS_Store

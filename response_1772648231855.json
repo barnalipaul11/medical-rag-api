@@ -1,0 +1,10 @@
+{
+  "query": "what should i do",
+  "image_provided": true,
+  "answer": {
+    "disease": "Burns",
+    "firstaid": "Cool the burn with cool (not icy) running water for 10–20 minutes. Cover the burn with a clean non■stick dressing. Do not apply butter, oil, or toothpaste. Seek emergency medical help."
+  },
+  "model_used": "google/gemini-2.0-flash-001",
+  "sources_retrieved": 4
+}
